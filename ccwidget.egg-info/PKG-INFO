@@ -1,0 +1,20 @@
+Metadata-Version: 1.1
+Name: ccwidget
+Version: 0.1.0a0
+Summary: ization of counterfactuals
+Home-page: https://github.com/FGV Visual Data Science Lab/ccwidget
+Author: Tiago da Silva
+Author-email: tdsh97@gmail.com
+License: UNKNOWN
+Description: ization of counterfactuals
+Keywords: ipython,jupyter,widgets
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Framework :: IPython
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Multimedia :: Graphics
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
